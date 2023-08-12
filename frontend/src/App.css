@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.app{
+  padding: 20px;
+  min-height: 100vh;
+  background-color: #020f30;
+}
+.card{
+  padding: 20px;
+}
+label{
+  color: white;
+}
